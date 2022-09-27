@@ -3,12 +3,16 @@
 ## 파이썬 설정
 
 
-설치
+Windows 가상환경 설치
 ```
 python -m venv myenv
 ```
 
 가상환경 실행
 ```
-./myenv/Scripts/activate
+.\myenv\Scripts\activate
+```
+
+```
+pip install playsound==1.2.2
 ```
