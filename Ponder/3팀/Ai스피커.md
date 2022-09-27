@@ -3,5 +3,5 @@
 ## 파이썬 설정
 
 ```
-pythin -m venv myenv
+python -m venv myenv
 ```
