@@ -1,0 +1,18 @@
+## 아나콘다 사용법
+
+
+conda 종료
+```
+conda activate
+```
+
+conda 시작
+```
+conda deactivate
+```
+
+conda 자동 활성화 FALSE(끄기) or True(켜기)
+```
+conda config --set auto_activate_base False
+source ~/.bashrc
+```
